@@ -1,6 +1,6 @@
 function shout(string) {
   return string.toUpperCase()
 }
-sayHiToGrandma(Hello)
+sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.")
 
 
